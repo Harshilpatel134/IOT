@@ -1,0 +1,1 @@
+[{"id":"bb174b5d.0fb2a8","type":"inject","z":"c2daaf93.837b1","name":"","topic":"message","payload":"\"message from r pi\"","payloadType":"str","repeat":"","crontab":"","once":false,"onceDelay":0.1,"x":180,"y":120,"wires":[["c97e1e1b.9cf85"]]}]
